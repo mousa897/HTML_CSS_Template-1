@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "diffEditor.codeLens": false,
+  "workbench.commandPalette.experimental.enableNaturalLanguageSearch": false,
+  "workbench.experimental.share.enabled": false,
+  "editor.minimap.showMarkSectionHeaders": true,
+  "editor.minimap.showRegionSectionHeaders": true,
+  "editor.stickyScroll.scrollWithEditor": true,
+  "workbench.tree.enableStickyScroll": true,
+  "terminal.integrated.stickyScroll.maxLineCount": 1,
+  "workbench.tree.stickyScrollMaxItemCount": 1,
+  "editor.stickyScroll.enabled": false,
+  "editor.stickyScroll.maxLineCount": 1
+}
